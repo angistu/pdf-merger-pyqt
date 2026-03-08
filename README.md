@@ -37,7 +37,7 @@ The application requires:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/angistu/pdf-merger-app.git
+git clone git@github.com:angistu/pdf-merger-pyqt.git
 cd pdf-merger-app
 ```
 
